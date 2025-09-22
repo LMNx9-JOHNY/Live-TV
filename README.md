@@ -15,10 +15,17 @@
 
 ---
 
-## 📥 Download Now
+## 📥 Download For 64bit Device
 <p align="center">
-  <a href="https://github.com/LMNx9-JOHNY/Live-TV/raw/refs/heads/main/app_release.apk">
-    <img src="https://img.shields.io/badge/Download-Free_APK-brightgreen?style=for-the-badge&logo=android" alt="Download">
+  <a href="https://github.com/LMNx9-JOHNY/Live-TV/raw/refs/heads/main/app_release_arm64-v8a.apk">
+    <img src="https://img.shields.io/badge/Download-Free_APK-brightgreen?style=for-the-badge&logo=android" alt="Download 64bit">
+  </a>
+</p>
+
+## 📥 Download For 32bit Device
+<p align="center">
+  <a href="https://github.com/LMNx9-JOHNY/Live-TV/raw/refs/heads/main/app_release_armeabi-v7a.apk">
+    <img src="https://img.shields.io/badge/Download-Free_APK-brightgreen?style=for-the-badge&logo=android" alt="Download 32bit">
   </a>
 </p>
 
