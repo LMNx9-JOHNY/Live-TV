@@ -22,12 +22,16 @@
   </a>
 </p>
 
+---
+
 ## 📥 Download For 32bit Device
 <p align="center">
   <a href="https://github.com/LMNx9-JOHNY/Live-TV/raw/refs/heads/main/app_release_armeabi-v7a.apk">
     <img src="https://img.shields.io/badge/Download-Free_APK-brightgreen?style=for-the-badge&logo=android" alt="Download 32bit">
   </a>
 </p>
+
+---
 
 ## 💬 Join Our Community
 <p align="center">
