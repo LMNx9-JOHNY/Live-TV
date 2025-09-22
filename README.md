@@ -8,6 +8,7 @@
 
 ✨ **Version**: `v1.0`  
 🔥 **Features**: `Free` | `Smooth` | `50+ CH` 
+
 💻 **Developer**: [DARK LMNx9](https://t.me/x_LMNx9)
 
 </div>
